@@ -1,0 +1,3 @@
+---
+//RUN DOCKER
+docker run --name loadbalancer-nginx-container -d nginx

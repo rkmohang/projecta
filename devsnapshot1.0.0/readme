@@ -1,5 +1,11 @@
 ---
+//The approach is using Docker /Kubernetes
+
 //this file will the overview of the plan
 // create image
 //Build -- Run -- configure - Docker image
 // deploy using kubernetes and 
+
+
+
+//nginx is used as a Load balancer to route users to access node.js
